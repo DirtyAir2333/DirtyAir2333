@@ -48,12 +48,10 @@
 
 ## 📌 Featured Projects
 
-<a href="https://github.com/DirtyAir2333/feishu_paper_assistant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DirtyAir2333&repo=feishu_paper_assistant&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/DirtyAir2333/weekly_report_bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DirtyAir2333&repo=weekly_report_bot&theme=tokyonight&hide_border=true" />
-</a>
+| 🚀 Project | 📝 Description |
+|:-----------|:---------------|
+| [**feishu_paper_assistant**](https://github.com/DirtyAir2333/feishu_paper_assistant) | 📚 飞书论文助手 - 自动化论文管理工具 |
+| [**weekly_report_bot**](https://github.com/DirtyAir2333/weekly_report_bot) | 🤖 周报机器人 - 自动生成周报助手 |
 
 ---
 
@@ -86,10 +84,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DirtyAir2333&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/🎓-Incoming_Graduate_Student-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔬-3D_Vision_Researcher-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖-AI_Enthusiast-orange?style=for-the-badge" />
 </p>
 
 ---
